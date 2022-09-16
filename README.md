@@ -5,6 +5,6 @@
 - 📫 How to reach me: https://www.linkedin.com/in/larissa-caldas-369b33152/
 
 <!---
-LarissaCaldas/LarissaCaldas is a ✨ special ✨ repository because its `README.md` (this file) appears in your GitHub profile.
+LarissaCaldas - Lary Caldas is a ✨ special ✨ repository because its `README.md` (this file) appears in your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
